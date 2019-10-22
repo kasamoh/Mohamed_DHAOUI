@@ -110,7 +110,7 @@ def  numba_pairwise(X, metric ):
 
 Pairwise distance computation takes 4min 50 seconds with the standard Python implementation and only 8 seconds with numba decorators . Not too bad for something that doesn't take almost ANY code changes.
 
-###  3. Discussion
+###  4. Discussion
 
 #####  - Is it always super fast?
 
